@@ -1,0 +1,15 @@
+vendor/
+dist/
+build/
+*.exe
+*.dll
+*.zip
+*.log
+*.pdb
+*.keystore
+*.jks
+settings.txt
+.env
+.env.*
+preview*.png
+!docs/preview.png
